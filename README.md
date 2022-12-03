@@ -1,16 +1,27 @@
 # greaterescondido
 
-A new Flutter project.
+This app was created on the demand of client in which he wanted the first page of his website to be converted into the mobile version and everything else will be kept in the WebViews.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this project, Home page of the website https://directory.greaterescondido.org/ was developed just for the mobile Android and iOS.
+Where NavBar of website was converted into App Drawer and the every link on the webiste was converted into seperate webview which were handled using Provider package.
 
-A few resources to get you started if this is your first Flutter project:
+I have learned in this project 
+- App drawer
+- WebView with back functionality 
+- Container BackGround images
+- Sticky footer
+- Indexed Stack
+- Sized ListView
+- Image as Icon
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Custom Widget Created While Developement
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Custom Text Field with Icon in front
+
+![Custom field created](images/customtextfieldrectwithicon.PNG)
+
+## Project Output
+
+![Prohect OutPut](images/customtextfieldrectwithicon.gif)
